@@ -1,6 +1,9 @@
 # training_generator
 
 Mobile application that generates training plans depending on user's choice made with Flutter.
+Feel free to sign up, or sign in using these credentials:
+1. test@test.com password: qwerty
+2. test2@test.com password: qwerty
 
 ## Getting Started
 
