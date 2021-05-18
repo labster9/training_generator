@@ -1,6 +1,6 @@
 # training_generator
 
-A new Flutter project.
+Mobile application that generates training plans depending on user's choice made with Flutter.
 
 ## Getting Started
 
